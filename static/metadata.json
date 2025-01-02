@@ -1,0 +1,22 @@
+{
+  "training_loss": 0.876839816570282,
+  "training_accuracy": null,
+  "validation_loss": 0.9123176336288452,
+  "validation_accuracy": null,
+  "training_mae": 0.6520715355873108,
+  "validation_mae": 0.8001748323440552,
+  "precision": null,
+  "recall": null,
+  "f1Score": null,
+  "AUC": null,
+  "r2_score": 0.362848530381088,
+  "class_counts": "81",
+  "num_epochs": "406",
+  "initial_learning_rate": 0.001,
+  "batch_size": 32,
+  "l2_strength": 0.01,
+  "predictors": "Predictor: Gravity of the region (mGal), Mean: 15.48148, SD: 14.35563, p-value: 0.00086; Predictor: Age in years, Mean: 41.22790, SD: 10.85924, p-value: 0.00000; Predictor: Gender (0=male, 100=female), Mean: 60.06000, SD: 27.93387, p-value: 0.65664; Predictor: Body mass index ( kg/m²), Mean: 26.05821, SD: 1.49070, p-value: 0.20275",
+  "outcome": "Name: Varicose %, Mean: 23.45519, SD: 11.97250",
+  "test_loss": 0.49169594049453735,
+  "test_mae": 0.5590166449546814
+}
